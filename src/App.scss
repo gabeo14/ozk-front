@@ -29,8 +29,14 @@
   // align-content: center;
 }
 
-.card {
+.card,
+.button {
   margin-top: 3em;
+  width: 100%;
+}
+
+.form-container {
+  width: 80;
 }
 
 @keyframes App-logo-spin {

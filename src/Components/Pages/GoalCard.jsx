@@ -64,6 +64,9 @@ class GoalCard extends Component {
                   </footer>
                 </div>
               </li>
+              <li>
+                <a className="button">New Goal</a>
+              </li>
             </ul>
           </div>
         </div>
